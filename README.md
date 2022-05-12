@@ -1,7 +1,9 @@
-This website is a portfolio of my data analysis projects.
+This website is a portfolio of my data analysis projects.\
+<br>
+<br>
+<br>
+Website Design:
 
-
-Website design:
 Directive by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
