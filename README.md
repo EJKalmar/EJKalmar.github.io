@@ -1,4 +1,4 @@
-This website is a portfolio of my data analysis projects.\
+This website is a portfolio of my data analysis projects. To see my website on Github Pages, click [here](https://EJKalmar.github.io).\
 <br>
 <br>
 <br>
